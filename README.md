@@ -64,7 +64,7 @@ Modern frontend application built with React ecosystem.
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tirawat1)
 
 ---
 
