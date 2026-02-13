@@ -18,8 +18,12 @@ I’m a software developer who enjoys building scalable backend systems and impr
 ## 🛠 Tech Stack
 
 **Backend**
-- Java
+- Go
+- C#
+- .NET Core
 - Spring Boot
+- gRPC
+- Postman
 - REST APIs
 - SQL
 
@@ -27,6 +31,8 @@ I’m a software developer who enjoys building scalable backend systems and impr
 - React
 - TypeScript
 - HTML / CSS
+- Next.js
+- Flutter
 
 **Tools**
 - Git
@@ -35,36 +41,33 @@ I’m a software developer who enjoys building scalable backend systems and impr
 
 ---
 
+## 💼 Professional Experience
+
+- 🔹 Developed backend systems for external companies
+- 🔹 Designed RESTful APIs and database schemas
+- 🔹 Worked on real-world production deployments
+- 🔹 Freelance backend & full-stack development
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔹 ASR Spring Boot Project
-Backend service built with Spring Boot following clean structure and RESTful design principles.
+Backend service built with Spring Boot following clean architecture and RESTful design principles.
 
 ### 🔹 EventHub
-Event management style application with backend and frontend integration.
+Event management platform with backend & frontend integration.
 
 ### 🔹 OBAC Frontend
-Frontend application built with modern web technologies.
+Modern frontend application built with React ecosystem.
+
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
 
 ---
 
-## 🧠 Problem Solving
+## 📫 Contact
 
-### 🔹 try_leet_code
-Personal repository for practicing LeetCode problems.  
-Includes categorized solutions, clean implementations, and continuous updates.
-
-> Focused on improving data structures, algorithms, and coding interview skills.
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Tirawat1&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirawat1&layout=compact)
-
----
-
-## 📫 Connect
-
-Let’s build something impactful 🚀
+Open for collaboration & backend opportunities 🚀
