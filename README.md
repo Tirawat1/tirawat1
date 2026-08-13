@@ -1,66 +1,61 @@
 # Hi 👋 I'm Tirawat
 
-💻 Full-Stack Developer | Backend Focused | Problem Solver  
+💻 Backend-Focused Software Engineer | Go | Full-Stack Capable
 
-I’m a software developer who enjoys building scalable backend systems and improving problem-solving skills through algorithm practice.
+I build scalable backend systems and sharpen my problem-solving through
+daily algorithm practice — currently deepening my skills in Go, system
+design, and distributed infrastructure.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working with **Go**
-- 🌱 Learning more about **System Design & Infrastructure**
+- 🔭 Currently working with **Go**, building backend systems & practicing design patterns
+- 🌱 Learning **System Design & Infrastructure** (caching, message queues, distributed systems)
 - 🧠 Practicing algorithms daily
-- 🎯 Goal: Become a strong fullstack
+- 🎯 Goal: Become a strong backend engineer, with full-stack range when needed
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
+**Backend (primary focus)**
 - Go
-- C#
-- .NET Core
+- C# / .NET Core
 - Spring Boot
-- gRPC
-- Postman
-- REST APIs
-- SQL
+- gRPC / REST APIs
+- SQL, Redis
 
 **Frontend**
-- React
-- TypeScript
-- HTML / CSS
-- Next.js
+- React, Next.js, TypeScript
 - Flutter
 
 **Tools**
-- Git
-- Docker (learning)
-- IntelliJ / VS Code
+- Git, Docker
+- Postman, IntelliJ / VS Code
 
 ---
 
 ## 💼 Professional Experience
 
-- 🔹 Developed backend systems for external companies
-- 🔹 Designed RESTful APIs and database schemas
-- 🔹 Worked on real-world production deployments
-- 🔹 Freelance backend & full-stack development
+- 🔹 Freelance backend & full-stack development for outsourced client projects
+- 🔹 Designed RESTful APIs and database schemas for production systems
+- 🔹 Shipped and maintained live deployments for external clients
 
 ---
 
 ## 📌 Featured Projects
 
+### 🔹 [OBAC](https://ekawit.ac.th/)
+Full-stack system built for a client — backend API + database design, deployed to production. *(live site)*
+
+### 🔹 [CareMate](https://github.com/CareMateTeam)
+Mobile app project — collaborated as part of a team, backend integration for a healthcare-focused app.
+
 ### 🔹 ASR Spring Boot Project
-Backend service built with Spring Boot following clean architecture and RESTful design principles.
+Backend service in Spring Boot following clean architecture and RESTful design principles.
 
-### 🔹 EventHub
-Event management platform with backend & frontend integration.
-
-### 🔹 OBAC Frontend
-Modern frontend application built with React ecosystem.
-
+---
 
 ## 📊 LeetCode Stats
 
